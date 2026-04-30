@@ -10,5 +10,6 @@ instruction_label.pack(pady=10)
 entry = tk.Entry(root, width=50, show="*")
 entry.pack(pady=5)
 #show="":shows a certain character, likely ginagamit sya para itago iinput ng user for privacy purposes 
+#width= : para maadjust yung width ng entry widget
 
 root.mainloop()
